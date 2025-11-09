@@ -7,3 +7,4 @@ tsfresh
 scikit-learn
 matplotlib
 seaborn
+prophet
